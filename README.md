@@ -8,7 +8,7 @@ _   ___    __________  _______
 
 # NVIDIA ChatRTX
 
-> chatrtx, nvidia ai, chatrtx download, nvidia local ai.
+> chatrtx, nvidia ai, chatrtx download, nvidia local ai. for Windows
 
 **chatrtx** | **nvidia-ai** | **tensorrt** | **local-ai** | **gpu-inference** | **nvidia**
 
@@ -18,9 +18,9 @@ _   ___    __________  _______
 
 - chatrtx, nvidia ai, chatrtx download, nvidia local ai.
 - Full build: nvidia ai, chatrtx download, nvidia local ai, chatrtx tutorial, chatrtx setup.
-- Platform: Windows macOS
+- Platform: Windows 10/11 x64
 
-**Platform:** Windows macOS
+**Platform:** Windows 10/11 x64
 
 ---
 
