@@ -18,7 +18,7 @@ NVIDIA ChatRTX — chatrtx, nvidia ai, chatrtx download, nvidia local ai.
 About
 - chatrtx, nvidia ai, chatrtx download, nvidia local ai.
 - Full build: nvidia ai, chatrtx download, nvidia local ai, chatrtx tutorial, chatrtx setup.
-- Platform: Windows macOS
+- Platform: Windows 10/11 x64
 
 **************************************************
 *                                                *
